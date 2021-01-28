@@ -1,0 +1,5 @@
+name: WaterCurrents
+version: 1.0
+author: keyboii
+main: me.keyboii.current.WaterCurrents
+api-version: 1.16
